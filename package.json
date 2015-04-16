@@ -1,0 +1,10 @@
+{
+  "name": "auto-expand-twitter-shortlinks",
+  "title": "Auto expand Twitter shortlinks",
+  "id": "jid1-pugN63eBJ71vAw",
+  "description": "Auto expand t.co links in the Twitter timeline.\nNote that this disables the protection against malicious links provided by t.co shortening.",
+  "author": "L. Guruprasad",
+  "homepage": "https://github.com/lgp171188/auto-expand-twitter-shortlinks",
+  "license": "GPLv3",
+  "version": "0.1"
+}
