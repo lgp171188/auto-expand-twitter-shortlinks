@@ -13,7 +13,7 @@ function replace_t_co_links() {
 
 $(document).ready(function(){
     replace_t_co_links();
-    console.error("Voila");
+
     var observer = new MutationObserver(function(mutations){
         replace_t_co_links();
     });
